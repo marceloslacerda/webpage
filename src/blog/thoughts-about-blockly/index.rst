@@ -22,8 +22,8 @@ customization process.
 When I tried using it I have felt that some good stuff that could be used to
 write programs was missing, most importantly functions for accessing the
 browser attributes and procedures. So I created a few things and uploaded my
-version of blockly, live version `here <https://msl09.com.br/cody/>`_ and code
-`here <https://msl09.com.br/cody/>`_.
+version of blockly, `live version here <https://msl09.com.br/cody/>`_ and
+`code here <https://github.com/marceloslacerda/cody>`_.
 
 All is nice and well but there are a few problems with it:
 
