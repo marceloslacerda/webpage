@@ -2,8 +2,7 @@
 msl09's site
 ============
 
-Hello and welcome my web-dump, I seldomly put stuff here so don't get your hopes
-high. Also make yourself at home.
+Hello and welcome to my web-dump, I seldomly put stuff here so don't expect much.
 
 Blog links:
 -----------
@@ -18,3 +17,6 @@ Other stuff
 - `My own version of blockly <http://www.msl09.com.br/cody>`_
 - `My gihub <https://github.com/marceloslacerda>`_
 - `My email <marceloslacerda@gmail.com>`_
+
+
+Make yourself at home.
